@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    background: darkgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+form{
+    width: 80%;
+    background: green;
+    width: fit-content;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    
+}
+#hhg{
+    background-color: greenyellow;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+    padding: 5px 10px;
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+#hhs{
+    background-color: beige;
+    border-radius: 3px;
+    border: none;
+    flex-grow: 1;
+    background-color: aquamarine;
+    
+}
