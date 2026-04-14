@@ -30,7 +30,8 @@ form{
     background-color: beige;
     border-radius: 3px;
     border: none;
-    flex-grow: 1;
+    width: 100%;
     background-color: aquamarine;
+    display: block;
     
 }
