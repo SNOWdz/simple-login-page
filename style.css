@@ -10,7 +10,7 @@ form{
     width: 80%;
     background: green;
     width: fit-content;
-    padding: 10px;
+    padding: 5px;
     display: flex;
     justify-content: center;
     gap: 10px;
